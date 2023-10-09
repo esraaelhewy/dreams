@@ -43,7 +43,7 @@ body{
 @media (max-width:800px) {
     .container{
         width:90%;
-        height: 90%;
+        height: 100%;
         padding:10px;
     }
     .container .info-head{
